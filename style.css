@@ -38,7 +38,10 @@ header {
 	align-items: center;
 	
 }
-
+/* Gives a bit more space between cool portfolio and nav bar*/
+nav {
+    margin-top: 0.5em;
+}
 
 nav > a {
 	text-decoration: none;
