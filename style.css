@@ -27,7 +27,6 @@ body {
 	align-items: center;
 }
 
-
 header {
 	background-color: var(--purple-heart-400);
 	height: 10dvh;
@@ -39,9 +38,10 @@ header {
 	align-items: center;
 	
 }
-/* Gives a bit more space between cool portfolio and nav bar*/
+
+
 nav {
-    margin-top: 0.5em;
+	margin-top: 0.5em;
 }
 
 nav > a {
@@ -94,12 +94,19 @@ main > p {
 	font-size: small;
 }
 
+
 main > h1 {
-    text-align: center;
+	text-align: center;
 }
 
 /* 
 header, footer {
 	background-color: var(--purple-heart-400);
 }  
+*/
+
+/* 
+nav {
+	margin-top: 20em;
+} 
 */

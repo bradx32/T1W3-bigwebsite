@@ -30,3 +30,16 @@
     border-radius: 1.5em;
 }
 
+.projectPreview > section {
+    display: flex;
+    column-gap: 2em;
+    
+}
+
+.projectPreview > section > a {
+	background-color: var(--purple-heart-200);
+	padding: 1em;
+    border-radius: 1.5em;
+    border: 2px;
+}
+
